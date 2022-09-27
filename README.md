@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Hemavardhan03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hemavardhan03/Hemavardhan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SIMPLE INTEREST
+AGE VALIDATION
+ANAGRAM
+ARITHMETIC CALCULATOR
+AVERAGE AND GRADING
+BINARY SUM
+CELSIUS TO FARHENHEIT
+FACTORIAL
+FIBONACCI SERIES
+GREATEST AMONG THREE
+ISOMORPHIC
+ODD OR EVEN
+PALINDROME
+PATTERN
+QUADRATIC EQN
+STAIRCASE
+SUM OF N
+USERNAME VERIFICATION
+VOWELS LEXICOGRAPH
+BAKERY
+TRADING
