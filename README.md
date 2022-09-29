@@ -1,21 +1,21 @@
-SIMPLE INTEREST
-AGE VALIDATION
-ANAGRAM
-ARITHMETIC CALCULATOR
-AVERAGE AND GRADING
-BINARY SUM
-CELSIUS TO FARHENHEIT
-FACTORIAL
-FIBONACCI SERIES
-GREATEST AMONG THREE
-ISOMORPHIC
-ODD OR EVEN
-PALINDROME
-PATTERN
-QUADRATIC EQN
-STAIRCASE
-SUM OF N
-USERNAME VERIFICATION
-VOWELS LEXICOGRAPH
-BAKERY
-TRADING
+simple interest
+voting validation
+anagram
+arithmetic calculator
+avg and grading
+binary sum
+celsius to farhenheit
+factorial
+fibonacci series
+greatest among three
+isomorphic
+odd or even
+palindrome
+pattern
+quadratic eqn
+staircase
+sum of n
+username verification
+vowels lexicography
+bakery
+trading
