@@ -1,6 +1,6 @@
-a = int(input("enter binary value for a="))
-b = int(input("enter binary value for b"))
-num1 = int(a)
-num2 = int(b)
-num3=a+b
-print(bin(num3))
+def getbinary(num):
+    if num>=1:
+        getbinary(num//2)
+        print(num%2,end="")
+a=int(input("enter the number"))
+b=int(input("enter the num"))
