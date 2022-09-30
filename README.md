@@ -54,11 +54,16 @@
 53. number pattern
 54. matrix addition
 55. 3 digitds & its combinations
-54. sorting list of names
-55. reversing a string using loop
-56. sq & cube of decimal num
-57. no.of student users
-58. No.of small integers in array
-59. pattern(0.1   0.1 0.2   0.1 0.2 0.3)
-60. vowels and consonants
-61. printing vowels count in dictionary
+56. sorting list of names
+57. reversing a string using loop
+58. sq & cube of decimal num
+59. no.of student users
+60. No.of small integers in array
+61. pattern(0.1   0.1 0.2   0.1 0.2 0.3)
+62. vowels and consonants
+63. printing vowels count in dictionary
+64. vowels lexicograph
+65. leap year or not
+66. online retailer
+67. pattern  (1 21 321)
+68. 
