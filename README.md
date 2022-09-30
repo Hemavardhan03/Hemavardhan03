@@ -61,3 +61,4 @@
 58. No.of small integers in array
 59. pattern(0.1   0.1 0.2   0.1 0.2 0.3)
 60. vowels and consonants
+61. printing vowels count in dictionary
