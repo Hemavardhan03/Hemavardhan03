@@ -58,3 +58,5 @@
 55. reversing a string using loop
 56. sq & cube of decimal num
 57. no.of student users
+58. No.of small integers in array
+59. 
