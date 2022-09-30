@@ -55,3 +55,5 @@
 54. matrix addition
 55. 3 digitds & its combinations
 54. sorting list of names
+55. reversing a string using loop
+56. sq & cube of decimal num
