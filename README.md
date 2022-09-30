@@ -59,4 +59,4 @@
 56. sq & cube of decimal num
 57. no.of student users
 58. No.of small integers in array
-59. 
+59. pattern(0.1   0.1 0.2   0.1 0.2 0.3)
