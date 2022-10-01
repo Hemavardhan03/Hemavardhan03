@@ -67,3 +67,11 @@
 66. online retailer
 67. pattern  (1 21 321)
 68. bonus salary(employee) 
+69.composite number between A and B
+70. prime and composite count
+71. frequency of ecah elmnt in list
+72. no.of ints divide both ints(factors)
+73. pattern by given symbol
+74. vote eligibility
+75. length of word
+76. calculator(switchcase)
